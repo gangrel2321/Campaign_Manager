@@ -6,7 +6,7 @@ GameObject* player;
 Map* map;
 
 SDL_Renderer* Game::renderer = nullptr;
-
+//git test2
 Game::Game()
 {}
 
